@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+*.log
+.streamlit/
+
+# 提交用的压缩包，不进版本库
+*.zip
+*.rar
